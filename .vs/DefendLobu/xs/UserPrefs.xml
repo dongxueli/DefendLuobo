@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{961E6658-4ECA-C21F-C429-38567F4CA5C4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Application/Objects/Map.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Application/Data/Point.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/Application/Data/Tile.cs" Line="23" Column="76" />
+      <File FileName="Assets/Scripts/Application/Data/Round.cs" Line="14" Column="6" />
+      <File FileName="Assets/Game/Res/Levels/level0.xml" Line="8" Column="9" />
+      <File FileName="Assets/Scripts/Application/Data/Level.cs" Line="34" Column="51" />
+      <File FileName="Assets/Scripts/Application/Consts.cs" Line="7" Column="48" />
+      <File FileName="Assets/Scripts/Application/Misc/Tools.cs" Line="80" Column="19" />
+      <File FileName="Assets/Scripts/Application/Objects/Map.cs" Line="38" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefendLobu" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Game" expanded="True">
+                <Node name="Res" expanded="True">
+                  <Node name="Levels" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Application" expanded="True">
+                  <Node name="Data" expanded="True" />
+                  <Node name="Misc" expanded="True" />
+                  <Node name="Objects" expanded="True">
+                    <Node name="Map.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Framework" expanded="True">
+                  <Node name="MVC" expanded="True" />
+                  <Node name="Pool" expanded="True" />
+                  <Node name="Sound" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3941eae-1fb8-4c5d-82d3-de9dcd8f1446" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{86052D1C-D38F-A3C1-2BE7-8723FBF7D958}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Framework/MVC/Controller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Framework/MVC/Controller.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefendLuobo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Framework" expanded="True">
+                  <Node name="MVC" expanded="True">
+                    <Node name="Controller.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3941eae-1fb8-4c5d-82d3-de9dcd8f1446" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
